@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <title>CiNode CAS - Uploader</title>
+    </head>
+    <body>
+    </body>
+        <form method="post" enctype="multipart/form-data" action="./">
+            <input type="file" name="file" />
+            <button>Upload</button>
+        </form>
+    </body>
+</html>
